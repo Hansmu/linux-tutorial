@@ -5,3 +5,5 @@
     > Terminal, kernel, shell, high level Linux overview.
 2. [Command basics](./command-basics/CommandBasics.md)
    > Command structure - arguments, and options.
+3. [Manual pages](./manual-pages/ManualPages.md)
+   > Man page, ``type``, ``which``, `help`
