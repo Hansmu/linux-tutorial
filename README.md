@@ -7,3 +7,5 @@
    > Command structure - arguments, and options.
 3. [Manual pages](./manual-pages/ManualPages.md)
    > Man page, ``type``, ``which``, `help`
+4. [Navigation](./navigation/Navigation.md)
+   > Basic navigation commands. cd, ls
