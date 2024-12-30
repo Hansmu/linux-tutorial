@@ -9,3 +9,7 @@
    > Man page, ``type``, ``which``, `help`
 4. [Navigation](./navigation/Navigation.md)
    > Basic navigation commands. cd, ls
+5. [Basic file management](./basic-file-management/BasicFileManagement.md)
+   > touch, mkdir, mv, cp
+6. [Nano introduction](./nano/Nano.md)
+   > Basic Nano usage
