@@ -13,3 +13,5 @@
    > touch, mkdir, mv, cp
 6. [Nano introduction](./nano/Nano.md)
    > Basic Nano usage
+7. [Some shortcuts & history](./shortcuts-and-history/ShortcutsAndHistory.md)
+   > Some terminal shortcuts, and the history command for recent commands  
